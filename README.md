@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Text Formatting</title>
+    <title>Image and Hyperlink</title>
 </head>
 <body>
 
-    <b>Bold Text</b><br>
-    <i>Italic Text</i><br>
-    <u>Underlined Text</u><br>
-    H<sup>2</sup>O
+    <img src="image.jpg" alt="Image" width="300"><br>
+    <a href="https://www.google.com">Visit Google</a>
 
 </body>
 </html>
